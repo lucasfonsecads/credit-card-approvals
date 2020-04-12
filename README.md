@@ -7,6 +7,11 @@ This project is for study more about Supervised Learning using Sklearn scikit-le
 [![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
+## Project Status
+
+![Active](https://img.shields.io/github/stars/lucasfonmiranda/credit-card-approvals)
+![Active](https://img.shields.io/github/issues/lucasfonmiranda/credit-card-approvals)
+
 ## Project Intro/Objective
 
 In this project, I'm build an automatic credit card approval predictor using machine learning techniques, just like the real banks do.

@@ -34,7 +34,8 @@ This project consist in Supervised Learning method to create one model to predic
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Just run jupyter on terminal:
+2. Intall requirements ```pip install -r requirements.txt```
+3. Just run jupyter on terminal:
 
 ```bash
 jupyter notebook
